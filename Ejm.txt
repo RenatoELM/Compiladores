@@ -1,0 +1,74 @@
+<doc>
+    <h1> Inteligencia Artificial <h1>
+    <p>
+	La <b><i> inteligencia artificial (IA) <i><b> <url> https://es.wikipedia.org/wiki/Inteligencia_artificial <url> en el contexto de las ciencias de la computación, es una disciplina 
+	y un conjunto de capacidades cognoscitivas e intelectuales expresadas por sistemas informáticos o combinaciones de 
+	algoritmos cuyo propósito es la creación de máquinas que imiten la inteligencia humana para realizar tareas, y que 
+	pueden mejorar conforme recopilen información.
+    <p>
+
+    <p>
+        <img> https://www.tarlogic.com/wp-content/uploads/2023/09/riesgos-seguridad-IA-3-1200x900.jpg <img>
+        <img> img/img.jpg <img>
+    <p>
+
+    <p>
+	En la actualidad, la inteligencia artificial abarca una gran variedad de subcampos. Éstos van desde áreas de propósito 
+	general, aprendizaje y percepción, a otras más específicas como el Reconocimiento de voz, el juego de ajedrez, la 
+	demostración de teoremas matemáticos, la escritura de poesía y el diagnóstico de enfermedades. La inteligencia artificial 
+	sintetiza y automatiza tareas que en principio son intelectuales y, por lo tanto, es potencialmente relevante para 
+	cualquier ámbito de actividades intelectuales humanas. En este sentido, es un campo genuinamente universal.
+    <p>
+	<h2>Tipos<h2>
+    <p>
+        <list>
+            <item>Inteligencia artificial generativa<item>
+            <item>Inteligencia artificial fuerte<item>
+            <item>Inteligencia artificial explicable<item>
+	    <item>Inteligencia artificial amigable<item>
+	    <item>Inteligencia artificial multimodal<item>
+	    <item>Inteligencia artificial cuántica<item>
+        <list>
+    <p>
+    <h2>Objetivos<h2>
+    <p>
+    <table>
+    <hr>
+	<c> Objetivo <c>
+	<c> Descripción <c>
+    <hr>
+    <r>
+	<c> <b> Razonamiento y resolución de problemas <b> <c>
+	<c> Los primeros investigadores desarrollaron algoritmos que imitaban el razonamiento paso a paso que los humanos usan cuando resuelven acertijos o hacen deducciones lógicas. A finales de la década de 1981-1990, la investigación de la inteligencia artificial había desarrollado métodos para tratar con información incierta o incompleta, empleando conceptos de probabilidad y economía. <c>
+    <r>
+    <r>
+	<c> <b> Representación del conocimiento <b> <c>
+	<c> La representación del conocimiento y la ingeniería del conocimiento son fundamentales para la investigación clásica de la inteligencia artificial. Algunos «sistemas expertos» intentan recopilar el conocimiento que poseen los expertos en algún ámbito concreto. Además, otros proyectos tratan de reunir el «conocimiento de sentido común» conocido por una persona promedio en una base de datos que contiene un amplio conocimiento sobre el mundo. <c>
+    <r>
+    <r>
+	<c> <b> Planificación <b> <c>
+	<c> Otro objetivo de la inteligencia artificial consiste en poder establecer metas y finalmente alcanzarlas. Para ello necesitan una forma de visualizar el futuro, una representación del estado del mundo y poder hacer predicciones sobre cómo sus acciones lo cambiarán, con tal de poder tomar decisiones que maximicen la utilidad (o el «valor») de las opciones disponibles. <c>
+    <r>
+    <r>
+	<c> <b> Aprendizaje <b> <c>
+	<c> El aprendizaje automático es un concepto fundamental de la investigación de la inteligencia artificial desde el inicio de los estudios de este campo; consiste en la investigación de algoritmos informáticos que mejoran automáticamente a través de la experiencia. <c>
+    <r>
+    <r>
+	<c> <b> Procesamiento de lenguajes naturales <b> <c>
+	<c> El procesamiento del lenguaje natural permite a las máquinas leer y comprender el lenguaje humano. Un sistema de procesamiento de lenguaje natural suficientemente eficaz permitiría interfaces de usuario de lenguaje natural y la adquisición de conocimiento directamente de fuentes escritas por humanos, como los textos de noticias. Algunas aplicaciones sencillas del procesamiento del lenguaje natural incluyen la recuperación de información, la minería de textos, la respuesta a preguntas y la traducción automática. <c>
+    <r>
+    <r>
+	<c> <b> Percepción <b> <c>
+	<c> La percepción de la máquina es la capacidad de utilizar la entrada de sensores (como cámaras de espectro visible o infrarrojo, micrófonos, señales inalámbricas y lidar, sonar, radar y sensores táctiles) para entender aspectos del mundo. Las aplicaciones incluyen reconocimiento de voz, reconocimiento facial y reconocimiento de objetos. <c>
+    <r>
+    <table>
+    <p>
+	<h2> Importancia de la inteligencia artificial <h2>
+    <p>
+	La gran importancia de la <b> IA <b> radica en el hecho de que tiene una amplia gama de aplicaciones, desde la automatización de tareas
+	tediosas hasta la creación de sistemas avanzados de asistencia médica y diagnóstico de enfermedades, la detección de fraudes y la 
+	optimización de procesos empresariales. En muchos casos, la IA puede hacer cosas que los humanos no pueden hacer, como el
+	procesamiento de datos en grandes cantidades y la localización de patrones e interrelaciones entre estos que serían difíciles o 
+	imposibles de detectar de otra manera.
+    <p>
+<doc>

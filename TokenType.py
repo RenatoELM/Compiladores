@@ -1,0 +1,23 @@
+from enum import Enum
+
+class TokenType(Enum):
+    DOC = 'doc'
+    P = 'p'
+    H1 = 'h1'
+    H2 = 'h2'
+    H3 = 'h3'
+    TEXT = 'text'
+    URL = 'url'
+    IMG = 'img'
+    LB = 'lb'
+    B = 'b'
+    I = 'i'
+    LIST = 'list'
+    ITEM = 'item'
+    TABLE = 'table'
+    R = 'r'
+    C = 'c'
+    END = 'END'
+    COMMENT = 'COMMENT'
+    TAG = 'TAG'
+    ERROR = 'ERROR'
